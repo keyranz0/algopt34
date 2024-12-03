@@ -1,0 +1,15 @@
+print(True)
+print(False)
+print('petik tunggal')
+print("petik ganda")
+print(13)
+print(13.1)
+print([1,2,3,4,5])
+print(["siji", "loro", "telu"])
+print((1,2,3,4,5))
+print(("siji", "loro", "telu"))
+print({ {"nama":"Keyran", "umur":"17"})
+biodata = {"nama":"Keyran", "umur":"17"}
+print(biodata)
+print(type)biodata))
+
